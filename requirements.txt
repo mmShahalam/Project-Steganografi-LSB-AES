@@ -1,0 +1,12 @@
+Flask
+Werkzeug
+pycryptodome
+Pillow
+numpy
+matplotlib
+python-docx
+PyPDF2
+openpyxl
+xlrd
+gunicorn
+python-dotenv
